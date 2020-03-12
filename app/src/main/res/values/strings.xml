@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OefeningIntents</string>
+    <string name="str_btn_call">Call</string>
+    <string name="str_btn_website">Website</string>
+    <string name="str_tv_name" />
+    <string name="str_btn_map">Adres</string>
+    <string name="str_img" />
+</resources>
